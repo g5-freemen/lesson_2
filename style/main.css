@@ -1,5 +1,21 @@
 h1
     {
         color: lawngreen;
+        font-weight: bold;
+        font-size: 90px;
+        font-family: 'Open Sans', sans-serif;
     }
+
+.container
+{
+    font-size: 0px;
+}
+
+.box {
+    font-size: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    background-color: indigo;
     
+}
