@@ -21,10 +21,9 @@ hr
         margin: 30px auto;
         color: #FF8C2D;
         width: 64px;
-        /*height: 0px;
-        border: 1px solid;*/
-        border: 0;
-        height: 2px;
+        height: 0px;
+        border: 1px solid;
+
     }
 
 h3
