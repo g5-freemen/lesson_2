@@ -27,8 +27,6 @@ hr
 
 h3
     {
-        
-        
         height: 14px;
         color: #86878B;
         font-size: 14px;
@@ -63,10 +61,10 @@ p
 
 .container
     {
-    padding: 66px 0 0 0;
-    font-size: 0px;
-    text-align: center;
-    margin: 0;
+        padding: 66px 0 0 0;
+        font-size: 0px;
+        text-align: center;
+        margin: 0;
     }
 
 img
@@ -90,12 +88,11 @@ img
 
 .circle
     {
-    margin: auto;
-    width: 70px;
-    height: 70px;
-    border: 2px solid #FF8C2D;
-    border-radius: 100%;
-    text-align: center;
-    position: relative;
+        margin: auto;
+        width: 70px;
+        height: 70px;
+        border: 2px solid #FF8C2D;
+        border-radius: 100%;
+        text-align: center;
+        position: relative;
     }
-
